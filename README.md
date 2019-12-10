@@ -1,5 +1,8 @@
 # Principles of secure development & deployment
 
+The live version of this guidance can now be found [here, on the NCSC website](https://www.ncsc.gov.uk/collection/developers-collection)
+
+
 > 8 Principles to help you improve and evaluate your development practices, or those of your suppliers.
 
 > ALPHA: This document is an initial draft. Due to the nature of the guidance, it seemed appropriate to share this on GitHub. We welcome your feedback through issues and pull requests. Please [read our blog](https://www.ncsc.gov.uk/blog-post/secure-development-and-deployment) that introduces this content.
